@@ -9,7 +9,7 @@ I'm from India 🇮🇳
 - 🚀 Currently working on scalable web applications and modern digital solutions.
 - 🌱 Currently learning advanced backend architecture and performance optimization.
 - 💬 Ask me about MERN Stack / WordPress / APIs / Frontend Development.
-- 📫 How to reach me: **sahil:bhalala027@gmail.com**
+- 📫 How to reach me: **sahilbhalala027@gmail.com**
 - 💼 Available for Freelancing & Full-Time Opportunities
 
 <hr>
